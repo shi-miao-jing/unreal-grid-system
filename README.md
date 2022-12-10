@@ -7,6 +7,6 @@ The provided example uses the Third Person Character template.
 
 # Source Code
 
-- [GridSystem.h](Source\GridSystemExample\GridSystem\GridSystem.h)
-- [GridSystem.cpp](Source\GridSystemExample\GridSystem\GridSystem.cpp)
-- [SnapAxis.h](Source\GridSystemExample\GridSystem\SnapAxis.h)
+- [GridSystem.h](https://github.com/shi-miao-jing/unreal-grid-system/blob/main/Source/GridSystemExample/GridSystem/GridSystem.h)
+- [GridSystem.cpp](https://github.com/shi-miao-jing/unreal-grid-system/blob/main/Source/GridSystemExample/GridSystem/GridSystem.cpp)
+- [SnapAxis.h](https://github.com/shi-miao-jing/unreal-grid-system/blob/main/Source/GridSystemExample/GridSystem/SnapAxis.h)
